@@ -1,0 +1,11 @@
+{
+  "length": {
+    "message": "Length"
+  },
+  "symbols": {
+    "message": "Symbols"
+  },
+  "copy": {
+    "message": "Copy password"
+  }
+}
