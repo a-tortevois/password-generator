@@ -6,6 +6,7 @@
   "version": "1.0.0",
   "default_locale": "en",
   "action": {
+    "default_title": "Password Generator",
     "default_popup": "popup.html",
     "default_icon": {
       "16": "/images/lock-16.png",
@@ -19,6 +20,11 @@
     "32": "/images/lock-32.png",
     "48": "/images/lock-48.png",
     "128": "/images/lock-128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "password-generator@tortevois.fr"
+    }
   },
   "manifest_version": 3
 }
